@@ -78,10 +78,6 @@ All credits to authors of packages and tools used in the project.
 
 Thanks goes to these wonderful people ([emoji key](https://github.com/all-contributors/all-contributors#emoji-key)):
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore -->
-| [<img src="https://avatars3.githubusercontent.com/u/35353768?v=4" width="100px;" alt="Jibbie R. Eguna"/><br /><sub><b>Jibbie R. Eguna</b></sub>](https://github.com/jbeguna04)<br />[🎨](#design-jbeguna04 "Design") |
-| :---: |
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
